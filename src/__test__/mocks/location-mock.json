@@ -1,0 +1,1038 @@
+{
+  "data": {
+    "location": {
+      "name": "Irvine, CA",
+      "city": "Irvine",
+      "state": "California",
+      "state_abv": "CA",
+      "zipcode": "92618",
+      "country": "United States",
+      "country_code": "US",
+      "latitude": 33.666614,
+      "longitude": -117.756295,
+      "place_path": "/earth/us/ca/irvine/92618",
+      "is_medical": true,
+      "is_recreational": false,
+      "quote": "Medically Legal Since 1996",
+      "cta_message": null
+    },
+    "regions": {
+      "dispensary": {
+        "id": 166,
+        "name": "Irvine",
+        "slug": "lake-forest",
+        "region_path": "united-states/california/lake-forest",
+        "latitude": 33.6833610534668,
+        "longitude": -117.76638793945312,
+        "top_left": {
+          "latitude": 33.778546,
+          "longitude": -117.8695
+        },
+        "bottom_right": {
+          "latitude": 33.599185,
+          "longitude": -117.670184
+        },
+        "listings": [
+          {
+            "id": 51893,
+            "wmid": 167357775,
+            "name": "Unity of ONAC",
+            "slug": "unity-of-onac",
+            "type": "dispensary",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/dispensaries/000/051/893/avatar/square_fill/1518415004-logo1.PNG"
+            },
+            "rating": 4.73250843644545,
+            "distance": 3.1487073705186157,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.707932/-117.7794/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          }
+        ]
+      },
+      "delivery": {
+        "id": 166,
+        "name": "Irvine",
+        "slug": "lake-forest",
+        "region_path": "united-states/california/lake-forest",
+        "latitude": 33.6833610534668,
+        "longitude": -117.76638793945312,
+        "top_left": {
+          "latitude": 33.778546,
+          "longitude": -117.8695
+        },
+        "bottom_right": {
+          "latitude": 33.599185,
+          "longitude": -117.670184
+        },
+        "listings": [
+          {
+            "id": 600,
+            "wmid": 493289257,
+            "name": "Rite Greens Delivery - Irvine",
+            "slug": "rite-greens-santa-ana",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/600/avatar/square_fill/1510580513-black_avatar.jpg"
+            },
+            "rating": 4.676839237057221,
+            "distance": 0.6111154678415925,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.670623/-117.765768/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 308,
+            "wmid": 677650197,
+            "name": "OCPC",
+            "slug": "ocpc",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/308/avatar/square_fill/1510580504-OCPC_logo.jpg"
+            },
+            "rating": 4.86875,
+            "distance": 4.087029229164355,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.712116/-117.80172/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 2603,
+            "wmid": 323691855,
+            "name": "1-866-DELIVERY",
+            "slug": "deliverygreens-com-uci-campus",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "California",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/002/603/avatar/square_fill/1510580696-DELIVERY.jpg"
+            },
+            "rating": 4.89090909090909,
+            "distance": 4.874538982578642,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.642239/-117.835831/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 8153,
+            "wmid": 465540215,
+            "name": "KUSHAGRAM",
+            "slug": "kushagram",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/008/153/avatar/square_fill/1510580904-image.png"
+            },
+            "rating": 4.91980198019802,
+            "distance": 3.8102406790986927,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.682873/-117.819615/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 241,
+            "wmid": 977643021,
+            "name": "SCQM Delivery Irvine UCI",
+            "slug": "scqmirvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/241/avatar/square_fill/1514928839-New_Logo.jpg"
+            },
+            "rating": 4.89068322981367,
+            "distance": 4.170018272330778,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.6588951/-117.8282121/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13509,
+            "wmid": 268569023,
+            "name": "949 Insta-Grams",
+            "slug": "949insta-grams",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/013/509/avatar/square_fill/1510581181-IMG_0564.JPG"
+            },
+            "rating": 4.98181818181818,
+            "distance": 1.450391573963176,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.646149/-117.750681/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3273,
+            "wmid": 360055517,
+            "name": "Organix Delivery - Irvine",
+            "slug": "organix-delivery-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/273/avatar/square_fill/1510580682-ORGANIXround.png"
+            },
+            "rating": 4.75393939393939,
+            "distance": 3.868092487510716,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.721228/-117.771087/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 12701,
+            "wmid": 164678418,
+            "name": "The Herb Collective - Irvine",
+            "slug": "the-herb-collective-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/012/701/avatar/square_fill/1510581097-Herbal22.png"
+            },
+            "rating": 4.98888888888889,
+            "distance": 1.5605245900842775,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.647426/-117.741982/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 34530,
+            "wmid": 667904766,
+            "name": "The Reserve Delivery",
+            "slug": "the-reserve-delivery-5",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/034/530/avatar/square_fill/1520312576-weedmap_logo.png"
+            },
+            "rating": 4.85714285714286,
+            "distance": 3.1579564264029134,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.668288/-117.811175/402/147/map.png",
+            "feature_order": 11,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13127,
+            "wmid": 933338427,
+            "name": "Herbaculture - Irvine",
+            "slug": "herbaculture-huntington-beach",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/013/127/avatar/square_fill/1510581104-circle_logo.png"
+            },
+            "rating": 5.0,
+            "distance": 3.833320946948388,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.661767/-117.822699/402/147/map.png",
+            "feature_order": 12,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 4647,
+            "wmid": 555380772,
+            "name": "OC Compassionate Care - Irvine - Medical Only",
+            "slug": "oc-compassionate-care-irvine-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/004/647/avatar/square_fill/1510580755-New_Logo_2016.jpg"
+            },
+            "rating": 4.71428571428571,
+            "distance": 4.60274752475785,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.688463/-117.831918/402/147/map.png",
+            "feature_order": 13,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3864,
+            "wmid": 338253056,
+            "name": "QUIKBUDS Premium Delivery - Irvine",
+            "slug": "quikbuds-premium-delivery-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/864/avatar/square_fill/1510580774-Smaller_Quikbuds.jpg"
+            },
+            "rating": 5.0,
+            "distance": 2.071637532355562,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.68201/-117.787211/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 33328,
+            "wmid": 418248387,
+            "name": "Lifted",
+            "slug": "lifted-6",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/033/328/avatar/square_fill/1519411959-BLUE_weblink.svg.png"
+            },
+            "rating": 5.0,
+            "distance": 4.130424154182469,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.642338/-117.821924/402/147/map.png",
+            "feature_order": 16,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 25661,
+            "wmid": 508303512,
+            "name": "Peoples OC",
+            "slug": "peoples-oc-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/025/661/avatar/square_fill/1510581635-sq_roots.png"
+            },
+            "rating": 5.0,
+            "distance": 2.301472221794469,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.672386/-117.795713/402/147/map.png",
+            "feature_order": 17,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3410,
+            "wmid": 231543055,
+            "name": "PharmSquad- Irvine",
+            "slug": "pharmsquad-irvine-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/410/avatar/square_fill/1515444445-PharmSquad.jpg"
+            },
+            "rating": 4.87147335423198,
+            "distance": 1.6864534235817616,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.643777/-117.745944/402/147/map.png",
+            "feature_order": 19,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 128,
+            "wmid": 107383485,
+            "name": "Extraction - Irvine",
+            "slug": "happy-dayz-health-solutions",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/128/avatar/square_fill/1510580494-extraction_logo__2_.jpg"
+            },
+            "rating": 4.773333333333334,
+            "distance": 4.790200255639025,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.657706/-117.838901/402/147/map.png",
+            "feature_order": 20,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          }
+        ]
+      },
+      "doctor": {
+        "id": 121,
+        "name": "Lake Forest",
+        "slug": "south-oc",
+        "region_path": "united-states/california/south-oc",
+        "latitude": 33.64417266845703,
+        "longitude": -117.68512725830078,
+        "top_left": {
+          "latitude": 33.85132,
+          "longitude": -117.721841
+        },
+        "bottom_right": {
+          "latitude": 33.606985,
+          "longitude": -117.531023
+        },
+        "listings": [
+          {
+            "id": 15156,
+            "wmid": 463055189,
+            "name": "OnlineMedicalCard.com (100% Online)",
+            "slug": "online-medical-cards-113",
+            "type": "doctor",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/doctors/000/015/156/avatar/square_fill/1510583519-1507850144-_DC6A371C8295025E76C268BD0FBC648C6F1EDBE0458F8E1642_pimgpsh_fullsize_distr.jpg"
+            },
+            "rating": 4.984615384615385,
+            "distance": 4.094845143719754,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.719563/-117.788293/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13004,
+            "wmid": 922970598,
+            "name": "420Recs.com- Irvine (100% Online)",
+            "slug": "420recs-com-irvine",
+            "type": "doctor",
+            "city": "Irvine",
+            "state": "ca",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/doctors/000/013/004/avatar/square_fill/1510583450-420recs_new.png"
+            },
+            "rating": 5.0,
+            "distance": 5.718030567243095,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.707156/-117.843002/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 12790,
+            "wmid": 650445809,
+            "name": "MMJ Doctor Online",
+            "slug": "mmj-doctor-online-13",
+            "type": "doctor",
+            "city": "Online",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/doctors/000/012/790/avatar/square_fill/1510583441-logo-for-social.png"
+            },
+            "rating": 5.0,
+            "distance": 8.825907067221385,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.6636696/-117.9097326/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13831,
+            "wmid": 168060930,
+            "name": "RiseUpMD.com (100% Online)",
+            "slug": "riseupmd-com-5",
+            "type": "doctor",
+            "city": "Dana Point",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/doctors/000/013/831/avatar/square_fill/1510583458-riseupmd_logo.jpg"
+            },
+            "rating": 4.9,
+            "distance": 4.254206839991269,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.6469749/-117.6861872/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 14100,
+            "wmid": 734284480,
+            "name": "Hybrid MD Urgent Care",
+            "slug": "hybrid-md-urgent-care",
+            "type": "doctor",
+            "city": "San Clemente",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/doctors/000/014/100/avatar/square_fill/1510583474-Weedmaps_Logo_1_.jpg"
+            },
+            "rating": 4.91428571428571,
+            "distance": 17.02945050830366,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.4575805/-117.5995842/402/147/map.png",
+            "feature_order": 9999,
+            "license_type": "medical",
+            "package_level": "basic",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          }
+        ]
+      },
+      "deliverable": {
+        "id": 166,
+        "name": "Irvine",
+        "slug": "lake-forest",
+        "region_path": "united-states/california/lake-forest",
+        "latitude": 33.6833610534668,
+        "longitude": -117.76638793945312,
+        "top_left": {
+          "latitude": 33.778546,
+          "longitude": -117.8695
+        },
+        "bottom_right": {
+          "latitude": 33.599185,
+          "longitude": -117.670184
+        },
+        "listings": [
+          {
+            "id": 600,
+            "wmid": 493289257,
+            "name": "Rite Greens Delivery - Irvine",
+            "slug": "rite-greens-santa-ana",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/600/avatar/square_fill/1510580513-black_avatar.jpg"
+            },
+            "rating": 4.676839237057221,
+            "distance": 0.6111154678415925,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.670623/-117.765768/402/147/map.png",
+            "feature_order": 1,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 308,
+            "wmid": 677650197,
+            "name": "OCPC",
+            "slug": "ocpc",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/308/avatar/square_fill/1510580504-OCPC_logo.jpg"
+            },
+            "rating": 4.86875,
+            "distance": 4.087029229164355,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.712116/-117.80172/402/147/map.png",
+            "feature_order": 2,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 2603,
+            "wmid": 323691855,
+            "name": "1-866-DELIVERY",
+            "slug": "deliverygreens-com-uci-campus",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "California",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/002/603/avatar/square_fill/1510580696-DELIVERY.jpg"
+            },
+            "rating": 4.89090909090909,
+            "distance": 4.874538982578642,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.642239/-117.835831/402/147/map.png",
+            "feature_order": 3,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 8153,
+            "wmid": 465540215,
+            "name": "KUSHAGRAM",
+            "slug": "kushagram",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/008/153/avatar/square_fill/1510580904-image.png"
+            },
+            "rating": 4.91980198019802,
+            "distance": 3.8102406790986927,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.682873/-117.819615/402/147/map.png",
+            "feature_order": 4,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": true
+            }
+          },
+          {
+            "id": 241,
+            "wmid": 977643021,
+            "name": "SCQM Delivery Irvine UCI",
+            "slug": "scqmirvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/241/avatar/square_fill/1514928839-New_Logo.jpg"
+            },
+            "rating": 4.89068322981367,
+            "distance": 4.170018272330778,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.6588951/-117.8282121/402/147/map.png",
+            "feature_order": 5,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13509,
+            "wmid": 268569023,
+            "name": "949 Insta-Grams",
+            "slug": "949insta-grams",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/013/509/avatar/square_fill/1510581181-IMG_0564.JPG"
+            },
+            "rating": 4.98181818181818,
+            "distance": 1.450391573963176,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.646149/-117.750681/402/147/map.png",
+            "feature_order": 7,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3273,
+            "wmid": 360055517,
+            "name": "Organix Delivery - Irvine",
+            "slug": "organix-delivery-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/273/avatar/square_fill/1510580682-ORGANIXround.png"
+            },
+            "rating": 4.75393939393939,
+            "distance": 3.868092487510716,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.721228/-117.771087/402/147/map.png",
+            "feature_order": 8,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 12701,
+            "wmid": 164678418,
+            "name": "The Herb Collective - Irvine",
+            "slug": "the-herb-collective-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/012/701/avatar/square_fill/1510581097-Herbal22.png"
+            },
+            "rating": 4.98888888888889,
+            "distance": 1.5605245900842775,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.647426/-117.741982/402/147/map.png",
+            "feature_order": 10,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 34530,
+            "wmid": 667904766,
+            "name": "The Reserve Delivery",
+            "slug": "the-reserve-delivery-5",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/034/530/avatar/square_fill/1520312576-weedmap_logo.png"
+            },
+            "rating": 4.85714285714286,
+            "distance": 3.1579564264029134,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.668288/-117.811175/402/147/map.png",
+            "feature_order": 11,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 13127,
+            "wmid": 933338427,
+            "name": "Herbaculture - Irvine",
+            "slug": "herbaculture-huntington-beach",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/013/127/avatar/square_fill/1510581104-circle_logo.png"
+            },
+            "rating": 5.0,
+            "distance": 3.833320946948388,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.661767/-117.822699/402/147/map.png",
+            "feature_order": 12,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 4647,
+            "wmid": 555380772,
+            "name": "OC Compassionate Care - Irvine - Medical Only",
+            "slug": "oc-compassionate-care-irvine-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/004/647/avatar/square_fill/1510580755-New_Logo_2016.jpg"
+            },
+            "rating": 4.71428571428571,
+            "distance": 4.60274752475785,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.688463/-117.831918/402/147/map.png",
+            "feature_order": 13,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3864,
+            "wmid": 338253056,
+            "name": "QUIKBUDS Premium Delivery - Irvine",
+            "slug": "quikbuds-premium-delivery-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/864/avatar/square_fill/1510580774-Smaller_Quikbuds.jpg"
+            },
+            "rating": 5.0,
+            "distance": 2.071637532355562,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.68201/-117.787211/402/147/map.png",
+            "feature_order": 15,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 33328,
+            "wmid": 418248387,
+            "name": "Lifted",
+            "slug": "lifted-6",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/033/328/avatar/square_fill/1519411959-BLUE_weblink.svg.png"
+            },
+            "rating": 5.0,
+            "distance": 4.130424154182469,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.642338/-117.821924/402/147/map.png",
+            "feature_order": 16,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 25661,
+            "wmid": 508303512,
+            "name": "Peoples OC",
+            "slug": "peoples-oc-irvine",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/025/661/avatar/square_fill/1510581635-sq_roots.png"
+            },
+            "rating": 5.0,
+            "distance": 2.301472221794469,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.672386/-117.795713/402/147/map.png",
+            "feature_order": 17,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 3410,
+            "wmid": 231543055,
+            "name": "PharmSquad- Irvine",
+            "slug": "pharmsquad-irvine-2",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/003/410/avatar/square_fill/1515444445-PharmSquad.jpg"
+            },
+            "rating": 4.87147335423198,
+            "distance": 1.6864534235817616,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.643777/-117.745944/402/147/map.png",
+            "feature_order": 19,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          },
+          {
+            "id": 128,
+            "wmid": 107383485,
+            "name": "Extraction - Irvine",
+            "slug": "happy-dayz-health-solutions",
+            "type": "delivery",
+            "city": "Irvine",
+            "state": "CA",
+            "avatar_image": {
+              "small_url":
+                "https://images.weedmaps.com/deliveries/000/000/128/avatar/square_fill/1510580494-extraction_logo__2_.jpg"
+            },
+            "rating": 4.773333333333334,
+            "distance": 4.790200255639025,
+            "static_map_url":
+              "https://staticmap.weedmaps.com/static_map/13/33.657706/-117.838901/402/147/map.png",
+            "feature_order": 20,
+            "license_type": "medical",
+            "package_level": "listing_plus",
+            "online_ordering": {
+              "enabled_for_pickup": false,
+              "enabled_for_delivery": false
+            }
+          }
+        ]
+      },
+      "brand": {
+        "id": 1319,
+        "name": "South OC Brands",
+        "slug": "south-oc-brands",
+        "region_path": "united-states/california/orange-county/south-oc-brands",
+        "latitude": 33.51959991455078,
+        "longitude": -117.74037170410156,
+        "top_left": {
+          "latitude": 33.85132,
+          "longitude": -118.607339
+        },
+        "bottom_right": {
+          "latitude": 32.800601,
+          "longitude": -117.450531
+        }
+      },
+      "deal": {
+        "id": 166,
+        "name": "Irvine",
+        "slug": "lake-forest",
+        "region_path": "united-states/california/lake-forest",
+        "latitude": 33.6833610534668,
+        "longitude": -117.76638793945312,
+        "top_left": {
+          "latitude": 33.778546,
+          "longitude": -117.8695
+        },
+        "bottom_right": {
+          "latitude": 33.599185,
+          "longitude": -117.670184
+        }
+      }
+    }
+  }
+}
